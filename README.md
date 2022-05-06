@@ -2,9 +2,11 @@
 [![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
 [![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
 
+# 内容皆为原作者所写！[仓库地址](https://github.com/dmego/home.github.io)
+
 ### 个人主页
 
->这是我的个人主页
+>这是DMEGO的个人主页
 
 >衍生自 [Vno](https://github.com/onevcat/vno-jekyll) Jekyll 主题
 
@@ -16,15 +18,15 @@
 
 >静态图
 
-![主页JPG](./assets/img/home.jpg)
+![主页JPG](https://github.com/dmego/home.github.io/assets/img/home.jpg)
 
 >动态图
 
-![主页GIF](./assets/img/home.gif)
+![主页GIF](https://github.com/dmego/home.github.io/assets/img/home.gif)
 
 ### 注
 
-- 访问地址：[个人主页](http://i.dmego.cn/)
+- 访问地址：[DMEGO个人主页](http://i.dmego.cn/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 - ~~使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务~~
 - ~~使用了 [Yahoo Query Language (YQL)](https://developer.yahoo.com/yql/) 来解决获取 Bing 壁纸跨域问题~~
@@ -44,4 +46,4 @@
 
 ### 更新时间
 
->2022-03-03(My Birthday)
+>2022-03-03(DMEGO Birthday)
